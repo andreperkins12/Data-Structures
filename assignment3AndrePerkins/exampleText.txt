@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class thePractice{
+	
+public:
+	thePractice();
+	~thePractice( ;
+	thePractice( ;
+	int [ theData;
+
+private:
+
+	
+
+};

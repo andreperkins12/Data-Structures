@@ -1,0 +1,10 @@
+class TestClass {
+    public:
+        OMG();
+
+        WHAT( 
+
+        THE [];
+
+        HECK { 
+};
